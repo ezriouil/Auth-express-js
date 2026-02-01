@@ -300,11 +300,4 @@ ISC
 
 ---
 
-## 👤 Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-
----
-
 <p align="center">⭐ Star this repo if you find it helpful!</p>
